@@ -8,7 +8,8 @@ O conjunto de dados é composto por imagens de rostos, com tamanho de 48x48, tod
 
 O download do conjunto de dados pode ser realizado [aqui](https://www.kaggle.com/deadskull7/fer2013).
 
+O resultado pode ser observado em um teste: 
 
 
+![fadfaf](https://user-images.githubusercontent.com/67349396/87430312-6a3a8e00-c5bb-11ea-880e-bcf2c9db5249.png)
 
-![](caminho até a imagem)
